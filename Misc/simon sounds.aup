@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="simon sounds_data" version="1.3.0" audacityversion="2.4.2" sel0="16.8667642753" sel1="16.8667642753" vpos="0" h="7.8008784773" zoom="42.6875000000" rate="22050.0" snapto="off" selectionformat="hh:mm:ss + hundredths" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="simon" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="22050" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="705600">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808426.au" len="262144" min="-0.38504" max="0.454468" rms="0.046806"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808e08.au" len="262144" min="-0.42337" max="0.422974" rms="0.04476"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808830.au" len="181312" min="-0.286713" max="0.289368" rms="0.043007"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="simon" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="22050" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="705600">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081b4.au" len="262144" min="-0.388031" max="0.40036" rms="0.039009"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808068.au" len="262144" min="-0.444916" max="0.47934" rms="0.061722"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808d29.au" len="181312" min="-0.416077" max="0.401459" rms="0.048531"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" isSelected="1" height="123" minimized="0" numlabels="32">
+		<label t="0.0000000000" t1="1.0000000000" title="001_Simon"/>
+		<label t="1.0000000000" t1="2.0000000000" title="002_Simon"/>
+		<label t="2.0000000000" t1="3.0000000000" title="003_Simon"/>
+		<label t="3.0000000000" t1="4.0000000000" title="004_Simon"/>
+		<label t="4.0000000000" t1="5.0000000000" title="005_Simon"/>
+		<label t="5.0000000000" t1="6.0000000000" title="006_Simon"/>
+		<label t="6.0000000000" t1="7.0000000000" title="007_Simon"/>
+		<label t="7.0000000000" t1="8.0000000000" title="008_Simon"/>
+		<label t="8.0000000000" t1="9.0000000000" title="009_Simon"/>
+		<label t="9.0000000000" t1="10.0000000000" title="010_Simon"/>
+		<label t="10.0000000000" t1="11.0000000000" title="011_Simon"/>
+		<label t="11.0000000000" t1="12.0000000000" title="012_Simon"/>
+		<label t="12.0000000000" t1="13.0000000000" title="013_Simon"/>
+		<label t="13.0000000000" t1="14.0000000000" title="014_Simon"/>
+		<label t="14.0000000000" t1="15.0000000000" title="015__Simon"/>
+		<label t="15.0000000000" t1="16.0000000000" title="016_Simon"/>
+		<label t="16.0000000000" t1="17.0000000000" title="017_Simon"/>
+		<label t="17.0000000000" t1="18.0000000000" title="018_Simon"/>
+		<label t="18.0000000000" t1="19.0000000000" title="019_Simon"/>
+		<label t="19.0000000000" t1="20.0000000000" title="020_Simon"/>
+		<label t="20.0000000000" t1="21.0000000000" title="021_Simon"/>
+		<label t="21.0000000000" t1="22.0000000000" title="022_Simon"/>
+		<label t="22.0000000000" t1="23.0000000000" title="023_Simon"/>
+		<label t="23.0000000000" t1="24.0000000000" title="024_Simon"/>
+		<label t="24.0000000000" t1="25.0000000000" title="025_Simon"/>
+		<label t="25.0000000000" t1="26.0000000000" title="026_Simon"/>
+		<label t="26.0000000000" t1="27.0000000000" title="027_Simon"/>
+		<label t="27.0000000000" t1="28.0000000000" title="028_Simon"/>
+		<label t="28.0000000000" t1="29.0000000000" title="029_Simon"/>
+		<label t="29.0000000000" t1="30.0000000000" title="030_Simon"/>
+		<label t="30.0000000000" t1="31.0000000000" title="031_Simon"/>
+		<label t="31.0000000000" t1="32.0000000000" title="032_Simon"/>
+	</labeltrack>
+</project>
